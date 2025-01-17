@@ -76,13 +76,11 @@ We welcome contributions! Here’s how you can help improve the project:
 4. **Identify and fix bugs**, or help implement performance improvements.
 5. **Submit a Pull Request (PR)** with clear descriptions of your changes and any necessary explanations.
 
-## License 📄
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact 📬
 
-Feel free to reach out for any inquiries or suggestions via [your email address or GitHub issues page].
+Feel free to reach out for any inquiries or suggestions via [sushilgaik2003@gmail.com].
 
 ---
 
