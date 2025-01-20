@@ -20,11 +20,7 @@ This project aims to create a **comprehensive banking system** to facilitate var
 - Record **financial transactions**, including transaction type (deposit/withdrawal), amount, and date.
 - Generate transaction history reports for customers.
 
-### 4. **Offers** 🎁
-- Provide **loan-related offers** with percentage discounts and detailed descriptions.
-- Dynamic offer generation based on criteria like loan type, amount, and customer status.
-
-### 5. **Payments & Repayments** 🧾
+### 4. **Payments & Repayments** 🧾
 - Facilitate **loan payments**, with detailed tracking of payment amounts and dates.
 - Monitor **repayment progress** and alert for upcoming payments.
 
