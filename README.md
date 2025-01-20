@@ -11,25 +11,20 @@ This project aims to create a **comprehensive banking system** to facilitate var
 ### 1. **Account Management** 💼
 - Create and maintain bank accounts with **balance tracking**.
 - Support for multiple account types (checking, savings, etc.).
-
-### 2. **Loan Management** 💸
-- Offer loans with **calculated interest rates**.
-- Track loan repayments, including the ability to set repayment schedules and amounts.
-- Monitor loan status, including outstanding balances.
-
-### 3. **Customer Management** 👥
+  
+### 2. **Customer Management** 👥
 - Store and retrieve **customer details** such as name, address, phone number, and email.
 - Ability to link customers to their respective accounts and loans.
 
-### 4. **Transaction Handling** 💳
+### 3. **Transaction Handling** 💳
 - Record **financial transactions**, including transaction type (deposit/withdrawal), amount, and date.
 - Generate transaction history reports for customers.
 
-### 5. **Offers** 🎁
+### 4. **Offers** 🎁
 - Provide **loan-related offers** with percentage discounts and detailed descriptions.
 - Dynamic offer generation based on criteria like loan type, amount, and customer status.
 
-### 6. **Payments & Repayments** 🧾
+### 5. **Payments & Repayments** 🧾
 - Facilitate **loan payments**, with detailed tracking of payment amounts and dates.
 - Monitor **repayment progress** and alert for upcoming payments.
 
